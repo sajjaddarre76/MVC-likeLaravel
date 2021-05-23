@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace thecodeholic\phpmvc;
 
 
 abstract class Model

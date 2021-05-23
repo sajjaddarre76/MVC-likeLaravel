@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace thecodeholic\phpmvc\db;
 
 
-use app\core\Model;
-use app\core\Application;
+use thecodeholic\phpmvc\Model;
+use thecodeholic\phpmvc\Application;
 
 class Database
 {
