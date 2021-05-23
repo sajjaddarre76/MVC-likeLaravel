@@ -1,5 +1,5 @@
 {
-    "name": "tc/mvc-likelaravel",
+    "name": "thecodeholic1/mvc-likelaravel",
     "require": {},
     "autoload": {
         "psr-4": {
